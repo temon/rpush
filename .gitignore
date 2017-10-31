@@ -3,3 +3,22 @@ config.ini
 .idea/*
 rpush.egg-info/
 rpush.komodoproject
+
+# Common ignored files from the projects
+**.iml
+**.class
+**.ipr
+**.iws
+**/.idea/
+**/target/
+**.DS_Store
+**/project/project/
+**/project/target/
+**/logs/
+**/node_modules/
+**/dist/
+**.log
+**/.gradle
+**/build/
+.DS_STORE
+node_modules
